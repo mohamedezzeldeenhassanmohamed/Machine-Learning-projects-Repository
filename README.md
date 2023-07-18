@@ -17,7 +17,7 @@ The following libraries are required to run the Jupyter notebooks:
 ## Getting Started
 To get started, clone this repository onto your local machine:
 ```bash
-git clone https://github.com/Anubhav-Goyal01/Machine-Learning-Projects.git
+git clone 
 ```
 Then, navigate to the project folder you want to explore and open the corresponding Jupyter notebook.
 
